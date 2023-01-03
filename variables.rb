@@ -7,3 +7,8 @@ fav_food = "Ramen"
 age = 32
 cars_owned = 3
 miles_year = 15000
+
+# Float variables
+bank_money = 12345.67
+ave_mileage = 28.7
+ave_speed = 42.4
