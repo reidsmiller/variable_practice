@@ -12,3 +12,8 @@ miles_year = 15000
 bank_money = 12345.67
 ave_mileage = 28.7
 ave_speed = 42.4
+
+# Boolean variables
+at_home = true
+tired = false
+hungry = true
